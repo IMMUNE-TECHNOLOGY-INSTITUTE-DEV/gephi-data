@@ -3,22 +3,22 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
+    "file": "http://immune.institute/wp-content/uploads/2022/04/LOGO_immune.png",
     "link": "",
-    "text": ""
+    "text": "Gephi"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": ""
+    "more": "Data Graph",
+    "intro": "Data Graph",
+    "title": "Data Graph"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Relaciones",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Programas"
   },
   "features": {
-    "search": true,
+    "search": false,
     "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
