@@ -239,8 +239,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -249,8 +249,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
@@ -259,8 +259,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -269,15 +269,15 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
             "target": "Master Data Science Online",
             "id": "248",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(94, 0, 94)",
             "size": 1.0
         },
         {
@@ -287,8 +287,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -297,8 +297,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -307,8 +307,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Bootcamp Data Analytics",
@@ -317,8 +317,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering Avanzado (Big Data)",
@@ -327,8 +327,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en python avanzado",
@@ -337,8 +337,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en limpieza de datos",
@@ -347,8 +347,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en visualizacion avanzada de datos",
@@ -357,8 +357,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -367,8 +367,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -377,8 +377,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -387,8 +387,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en visualizacion avanzada de datos",
@@ -397,8 +397,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -407,8 +407,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en big data",
@@ -417,8 +417,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en machine learning supervisado",
@@ -427,15 +427,15 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
             "target": "Diploma en aplicacion datascience al negocio",
             "id": "246",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(94, 0, 94)",
             "size": 1.0
         },
         {
@@ -445,8 +445,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering Avanzado (Big Data)",
@@ -455,8 +455,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en big data avanzado",
@@ -465,8 +465,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en limpieza de datos i",
@@ -475,8 +475,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -485,8 +485,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en python avanzado",
@@ -495,8 +495,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -505,8 +505,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en big data",
@@ -515,8 +515,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics Avanzado",
@@ -525,8 +525,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en machine learning supervisado",
@@ -535,8 +535,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en introduccion a machine learning",
@@ -545,8 +545,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics Avanzado",
@@ -555,8 +555,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -565,8 +565,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering",
@@ -575,8 +575,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering Avanzado (Big Data)",
@@ -585,8 +585,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -595,8 +595,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en machine learning no supervisado",
@@ -605,8 +605,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics",
@@ -615,8 +615,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -625,8 +625,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering Avanzado (Big Data)",
@@ -635,8 +635,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -645,8 +645,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -655,8 +655,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -665,8 +665,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -675,8 +675,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -685,8 +685,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -695,8 +695,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
@@ -705,8 +705,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Bootcamp Data Analytics",
@@ -715,8 +715,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en machine learning no supervisado",
@@ -725,8 +725,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering Avanzado (Big Data)",
@@ -735,8 +735,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en deep learning",
@@ -745,8 +745,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -755,8 +755,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Bootcamp Data Analytics",
@@ -765,8 +765,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -775,8 +775,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en machine learning supervisado",
@@ -785,8 +785,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -795,8 +795,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en limpieza de datos i",
@@ -805,8 +805,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en introduccion a machine learning",
@@ -815,8 +815,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Bootcamp Data Analytics",
@@ -825,8 +825,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics",
@@ -835,8 +835,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics Avanzado",
@@ -845,8 +845,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics Avanzado",
@@ -855,8 +855,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de programación",
@@ -865,8 +865,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en fundamentos de python",
@@ -875,8 +875,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -885,8 +885,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en big data avanzado",
@@ -895,8 +895,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -905,8 +905,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics Avanzado",
@@ -915,8 +915,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Avanzado en data Science",
@@ -925,8 +925,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics",
@@ -935,8 +935,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en deep learning",
@@ -945,8 +945,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -955,8 +955,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en visualizacion avanzada de datos",
@@ -965,8 +965,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -975,8 +975,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en modelos de bases de datos",
@@ -985,8 +985,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en aplicacion datascience al negocio",
@@ -995,8 +995,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Engineering",
@@ -1005,8 +1005,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -1015,8 +1015,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
@@ -1025,8 +1025,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en big data",
@@ -1035,8 +1035,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Diploma en analisis exploratorio \u0026 visualizacion basica de datos",
@@ -1045,15 +1045,15 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Master Data Science Online",
             "target": "Master Data Science Online",
             "id": "247",
             "attributes": {},
-            "color": "rgb(192,192,192)",
+            "color": "rgb(94, 0, 94)",
             "size": 1.0
         },
         {
@@ -1063,8 +1063,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         },
         {
             "source": "Experto Data Analytics",
@@ -1073,8 +1073,8 @@
             "attributes": {
                 "value": "1"
             },
-            "color": "rgb(192,192,192)",
-            "size": 2.0
+            "color": "rgb(94, 0, 94)",
+            "size": 0.7
         }
     ]
 }
