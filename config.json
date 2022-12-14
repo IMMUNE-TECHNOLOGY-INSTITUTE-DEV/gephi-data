@@ -32,18 +32,18 @@
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
-      "defaultLabelColor": "#000",
-      "labelThreshold": 10,
-      "defaultLabelHoverColor": "#fff",
+      "defaultLabelColor": "white",
+      "labelThreshold": 1,
+      "defaultLabelHoverColor": "#9E238D",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 25
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 2.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 5,
+      "maxNodeSize": 40
     },
     "mouseProperties": {
       "maxRatio": 20,
